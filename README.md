@@ -45,8 +45,8 @@ Follow these instructions to set up the project locally on your machine.
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/career-compass.git
-    cd career-compass
+    git clone https://github.com/yourusername/career-guide.git
+    cd career-guide
     ```
 
 2.  **Install Dependencies**
@@ -70,7 +70,7 @@ Create a `.env` file in the **`backend`** directory (`backend/.env`) with the fo
 # backend/.env
 
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/career_compass
+MONGODB_URI=mongodb://localhost:27017/career_guide
 # OR your MongoDB Atlas URI
 
 JWT_SECRET=your_secure_jwt_secret_key
