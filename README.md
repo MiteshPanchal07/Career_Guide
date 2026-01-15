@@ -1,4 +1,4 @@
-# Career Guide (Delta Forge) 🚀
+# Career Guide (Path Forge) 🚀
 
 **Career Guide** is an advanced AI-powered career support platform designed to assist job seekers at every stage of their journey. By integrating cutting-edge AI tools, it provides personalized resume analysis, simulated mock interviews, and tailored career roadmaps to help users land their dream jobs.
 
