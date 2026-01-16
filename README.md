@@ -122,3 +122,9 @@ Contributions, improvements, and suggestions are welcome. Feel free to fork the 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+## Authors
+
+* **Mitesh Panchal** 
+* **Rohan Gour**
+
