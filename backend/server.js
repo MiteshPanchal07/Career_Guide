@@ -33,7 +33,7 @@ app.use((err, req, res, next) => {
 
 app.get('/', (req, res) => {
     res.json({
-        message: 'Career Compass API is running',
+        message: 'Career Guide API is running',
         version: '1.0.0',
         endpoints: {
             upload: '/api/upload',
