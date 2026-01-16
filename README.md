@@ -1,24 +1,24 @@
-# Career Guide (Delta Forge) 🚀
+# Career Guide (Path Forge) 🚀
 
-**Career Guide** is an advanced AI-powered career support platform designed to assist job seekers at every stage of their journey. By integrating cutting-edge AI tools, it provides personalized resume analysis, simulated mock interviews, and tailored career roadmaps to help users land their dream jobs.
+**Career Guide** is a smart, AI-driven career assistance platform built to support job seekers throughout their professional journey. By combining modern AI capabilities with practical career tools, it helps users improve their resumes, prepare for interviews, and follow clear, personalised career paths toward their target roles.
 
 ![Career Guide Dashboard](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&h=400&fit=crop&q=80)
 
 ## ✨ Key Features
 
-- **📄 AI Resume Analysis**: Upload your resume and a job description to get a detailed match score, missing skills analysis, and actionable improvement tips.
-- **🎙️ AI Mock Interview**: Practice technical or behavioral interviews with an AI that simulates a real recruiter, providing real-time feedback and sample answers.
-- **🗺️ Career Roadmap**: meaningful visual learning paths tailored to your current skills and career goals.
-- **💬 AI Career Coach**: A 24/7 chat assistant to answer career queries, help with application strategies, or guide you through the platform.
-- **📊 Progress Tracking**: Dashboard analytics to track your match scores over time and gamified XP system to keep you motivated.
-- **🔐 Secure Profile**: Manage your history, save reports, and track your professional growth securely.
+- **📄 Smart Resume Evaluation**: Upload your resume along with a job description to receive a compatibility score, skill gap insights, and clear recommendations for improvement.
+- **🎙️ AI-Powered Mock Interviews**: Practice technical and behavioural interviews with an AI interviewer that mimics real hiring scenarios and provides instant feedback with suggested answers.
+- **🧭 Personalised Career Roadmaps**: Interactive and visually structured learning paths based on your current skill set and long-term career goals.
+- **💬 AI Career Assistant**: A round-the-clock chat assistant to answer career-related questions, guide job applications, and help users navigate the platform.
+- **📈 Progress & Performance Tracking**: Monitor your resume match scores, interview performance, and growth through analytics and a gamified XP-based motivation system.
+- **🔐 Secure User Profiles**: Safely store your reports, interview history, and progress while managing your professional data with confidence.
 
 ## 🛠️ Tech Stack
 
 ### Frontend
 
 - **Framework**: React 19 (Vite)
-- **Styling**: Tailwind CSS 4, Framer Motion (Animations)
+- **Styling**: Tailwind CSS 4, Framer Motion
 - **Charts**: Recharts
 - **Icons**: Lucide React
 
@@ -32,7 +32,7 @@
 
 ## 🚀 Getting Started
 
-Follow these instructions to set up the project locally on your machine.
+Follow the steps below to run the project on your local system.
 
 ### Prerequisites
 
@@ -45,8 +45,8 @@ Follow these instructions to set up the project locally on your machine.
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/career-compass.git
-    cd career-compass
+    git clone https://github.com/yourusername/career-guide.git
+    cd career-guide
     ```
 
 2.  **Install Dependencies**
@@ -70,14 +70,14 @@ Create a `.env` file in the **`backend`** directory (`backend/.env`) with the fo
 # backend/.env
 
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/career_compass
+MONGODB_URI=mongodb://localhost:27017/career_guide
 # OR your MongoDB Atlas URI
 
 JWT_SECRET=your_secure_jwt_secret_key
 GROQ_API_KEY=gsk_your_groq_api_key_here
 ```
 
-> **Note:** The frontend runs on Vite and usually doesn't require a `.env` file unless you have specific client-side configs.
+> **Note:** The frontend runs on Vite and typically does not need environment variables unless additional client-side configuration is required.
 
 ### ▶️ Running the Application
 
@@ -117,7 +117,7 @@ You need to run both the backend server and the frontend client.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions, improvements, and suggestions are welcome. Feel free to fork the repository and submit a Pull Request..
 
 ## 📄 License
 
